@@ -1,0 +1,61 @@
+# Flutter
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/.pub-cache/
+frontend/.pub/
+frontend/build/
+frontend/ios/Pods/
+frontend/ios/.symlinks/
+frontend/ios/Flutter/Flutter.framework
+frontend/ios/Flutter/Flutter.podspec
+frontend/.flutter-plugins-dependencies
+frontend/pubspec.lock
+
+# Android
+frontend/android/.gradle/
+frontend/android/captures/
+frontend/android/local.properties
+frontend/android/.idea/
+frontend/android/*.iml
+frontend/android/key.properties
+frontend/android/app/release/
+
+# iOS
+frontend/ios/Flutter/Generated.xcconfig
+frontend/ios/Flutter/flutter_export_environment.sh
+frontend/ios/Pods/
+frontend/ios/.symlinks/
+frontend/ios/Runner.xcworkspace
+frontend/ios/ServiceDefinitions.json
+
+# Web
+frontend/web/.firebase/
+
+# Node.js
+backend/node_modules/
+backend/npm-debug.log
+backend/yarn-error.log
+backend/.env
+backend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Misc
+.env.local
+.env.*.local
