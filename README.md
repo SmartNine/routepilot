@@ -222,7 +222,7 @@ MIT License
 ## 📞 联系方式
 
 - 问题反馈: GitHub Issues
-- 邮件: your-email@example.com
+- 邮件: mzgamecenter@gmail.com
 
 ## 🙏 致谢
 
